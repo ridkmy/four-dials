@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/four-dials/static/css/main.a97cc454.css",
-    "main.js": "/four-dials/static/js/main.564ba02d.js",
+    "main.js": "/four-dials/static/js/main.f3a4b97f.js",
     "static/js/27.cee02b95.chunk.js": "/four-dials/static/js/27.cee02b95.chunk.js",
     "index.html": "/four-dials/index.html"
   },
   "entrypoints": [
     "static/css/main.a97cc454.css",
-    "static/js/main.564ba02d.js"
+    "static/js/main.f3a4b97f.js"
   ]
 }
